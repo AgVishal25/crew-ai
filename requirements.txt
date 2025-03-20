@@ -1,0 +1,6 @@
+pip install decouple
+pip install langchain-openai
+pip install langchain-community
+pip install tavily-python
+pip install python-docx
+pip install python-pptx
